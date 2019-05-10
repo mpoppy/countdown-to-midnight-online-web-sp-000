@@ -11,5 +11,5 @@ end
 
 def countdown_with_sleep(integer)
   while integer < 0 
-  sleep.
+  sleep.(1,second)
 end
